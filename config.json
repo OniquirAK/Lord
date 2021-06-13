@@ -1,0 +1,13 @@
+{
+  "bot": {
+    "token": "no."
+  },
+  "status": {
+    "anystatus": false,
+    "statustext": "discord.gg/rge",
+    "roletogiveid": "853400808703524864"
+  },
+  "options": {
+  "consolelogs": true
+  }
+}
